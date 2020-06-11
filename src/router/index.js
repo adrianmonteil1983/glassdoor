@@ -66,11 +66,10 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/PortFolio.vue")
   },
 ];
-const base = '/glassdoor/';
+
 
 const router = new VueRouter({
-  routes,
-  base
+  routes
 });
 
 export default router;
