@@ -1,5 +1,4 @@
 module.exports = {
-  publicPath: '/glassdoor/',
   transpileDependencies: ["vuetify"],
   chainWebpack: config => {
     // file loader
