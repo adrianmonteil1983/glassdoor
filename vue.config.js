@@ -1,6 +1,7 @@
 module.exports = {
-  publicPath: 'glassdoor'
-  ,
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/glassdoor/'
+    : '/',
   transpileDependencies: ["vuetify"],
   chainWebpack: config => {
     // file loader
