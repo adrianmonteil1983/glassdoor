@@ -66,7 +66,7 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/PortFolio.vue")
   },
 ];
-const base = '/app/';
+const base = '/glassdoor/';
 
 const router = new VueRouter({
   routes,
