@@ -1,7 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/vue_resume/'
-    : '/'
+  publicPath: 'vue_resume'
   ,
   transpileDependencies: ["vuetify"],
   chainWebpack: config => {
