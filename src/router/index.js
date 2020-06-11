@@ -66,9 +66,11 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/PortFolio.vue")
   },
 ];
+const base = '/app/';
 
 const router = new VueRouter({
-  routes
+  routes,
+  base
 });
 
 export default router;
