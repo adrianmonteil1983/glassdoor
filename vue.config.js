@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: 'vue_resume'
+  publicPath: 'glassdoor'
   ,
   transpileDependencies: ["vuetify"],
   chainWebpack: config => {
