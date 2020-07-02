@@ -10,7 +10,7 @@
         </ul>
         <h3>E-mail</h3>
         <ul>
-          <li> <a href="mailto:monteiladrian@gmail.com" target="_blank">Email</a></li>
+          <li> <a href="mailto:monteiladrian@gmail.com" target="_blank">monteiladrian@gmail.com</a></li>
         </ul>
         <h3>Linkedin</h3>
         <ul>

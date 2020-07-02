@@ -11,7 +11,12 @@
             <p>{{item.description.resume}}</p>
             <p>{{item.description.technos}}</p>
             <div id="icons">
-              <a :href="item.description.github" target='blank'><v-icon large color='primary'>{{github}}</v-icon></a><a :href="item.description.link" target='blank'><v-icon large color="blue">{{site}}</v-icon></a>
+              <a :href="item.description.github" target='blank'>
+                <v-icon large color='primary'>{{github}}</v-icon>
+              </a>
+              <a :href="item.description.link" target='blank'>
+                <v-icon large color="blue">{{site}}</v-icon>
+              </a>
             </div>
           </div>
         </div>
