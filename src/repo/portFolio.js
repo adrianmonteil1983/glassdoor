@@ -10,7 +10,7 @@ const projects = [
     description:{
       h3: 'React Automation',
       resume: 'Fullstack Smart Home app',
-      technos: 'React.js, node.js, MongoDB, socket.io, Arduinos',
+      technos: 'React.js, node.js, MongoDB, MQTT, socket.io, Arduinos',
       link: 'https://practical-bell-ac50ec.netlify.app',
       github: 'https://github.com/adrianmonteil1983/react_automation_front'
     } 
