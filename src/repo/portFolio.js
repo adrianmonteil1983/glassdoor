@@ -44,6 +44,8 @@ const projects = [
       h3: 'Vue Marvel',
       resume: 'Vue app fetching marvel characters with informations',
       technos: 'Vue.js, Vuex, Vue router, Rest API, css Grid, flexbox, Sass',  
+      link: 'https://nervous-dubinsky-1f3a6d.netlify.app/',
+      github: 'https://github.com/adrianmonteil1983/marvel'
     }
   },
 ]
