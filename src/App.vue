@@ -48,7 +48,6 @@ p{
 }
 #main-wrap{
   height: 100%;
-  widows: 100%;
 }
 .content{
   display: grid;
