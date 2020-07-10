@@ -47,8 +47,8 @@ p{
   color: #5A5A5A;
 }
 #main-wrap{
-  position: relative;
   height: 100%;
+  widows: 100%;
 }
 .content{
   display: grid;

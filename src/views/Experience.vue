@@ -20,7 +20,8 @@
         <h3>International Field Egineer / Project manager</h3>
         <ul>
           <li>Designed, programmed, commissioned complex hardware and SCADA architecture for smart building in france and in Qatar.</li>
-          <li>Participed in large national projects, +500Ke, Indigo parkings, DOHA airport, DOHA SHERATON, LUSAIL MARINA. centralisation in one hypersion software to control cctv, intercom, ligthing system, technical alarms, hvac, parking payment system, etc...</li>
+          <li>Participed in large national projects, +500Ke, Indigo parkings, DOHA airport, DOHA SHERATON, LUSAIL MARINA.</li>
+          <li>Centralisation in one hypersion software to control cctv, intercom, ligthing system, technical alarms, hvac, parking payment system, etc...</li>
           <li>Developed python scripts to reduce configuration time (80% time saved).</li>
           <li>Managed local teams of technicians (10 people).</li>
           <li>Participated  in technical meetings with clients.</li>

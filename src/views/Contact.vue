@@ -41,5 +41,7 @@ export default {
 </script>
 
 <style>
-
+li a {
+  color: #4380D5 !important;
+}
 </style>

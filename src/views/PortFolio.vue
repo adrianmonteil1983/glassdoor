@@ -3,7 +3,7 @@
     <v-app>
     <h1>Port-Folio</h1>
     <v-divider></v-divider>
-      <transition-group>
+      <transition-group id='containerPortFolio'>
         <div v-for="item in projects" :key="item.name" :class="{project:project, opaque:true, appear:appear}">
           <img  class="items" :src="item.image" alt="" width="200px" height="140px">
           <div class="items">
@@ -80,5 +80,10 @@ img{
 .v-application{
   font-family: inherit;
   line-height: inherit;
+}
+#containerPortFolio{
+  height: 100%;
+  display: grid;
+  grid-auto-rows: 1fr 1fr 1fr 1fr;
 }
 </style>
